@@ -3,6 +3,10 @@ uuid = "b04d7941-b56a-4bb3-84e8-c29b2cdafc4f"
 authors = ["Naoki Maeda <naoki.maeda.jp@gmail.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+GMT = "5752ebe1-31b9-557e-87aa-f909b540aa54"
+RdJUFiles = "46bd9b67-29e2-46b0-bb29-da07b42f7d11"
+
 [compat]
 julia = "1.9"
 
