@@ -6,6 +6,6 @@ using RdJUFiles
 
 export plot_mch
 
-include("pot_mch.jl")  # multi-channel plot
+include("plot_mch.jl")  # multi-channel plot
 
 end

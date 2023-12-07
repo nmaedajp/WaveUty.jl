@@ -1,14 +1,15 @@
 name = "WaveUty"
 uuid = "b04d7941-b56a-4bb3-84e8-c29b2cdafc4f"
 authors = ["Naoki Maeda <naoki.maeda.jp@gmail.com> and contributors"]
-version = "1.0.0-DEV"
+version = "0.0.2-DEV"
 
 [deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
 GMT = "5752ebe1-31b9-557e-87aa-f909b540aa54"
 RdJUFiles = "46bd9b67-29e2-46b0-bb29-da07b42f7d11"
 
 [compat]
-julia = "1.8"
+julia = "1.9"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
