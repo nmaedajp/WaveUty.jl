@@ -2,10 +2,9 @@ module WaveUty
 
 # Write your package code here.
 using GMT
-using RdJUFiles
 
-export plot_mch
+export plot_mch2
 
-include("plot_mch.jl")  # multi-channel plot
+include("plot_mch2.jl")  # multi-channel plot
 
 end
