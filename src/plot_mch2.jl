@@ -1,6 +1,6 @@
 # 多チャンネルをプロットするための関数．GMT.jlを使用している．
 # Wavetype を使用しない版
-function plot_mch(wave, nwave, nch, chid, hz, t1, t2, y1, y2, title;
+function plot_mch2(wave, nwave, nch, chid, hz, t1, t2, y1, y2, title;
     width=16, height=1.0, offset=0.9, szmj=10, pw=0.25, 
     szttl=12, szlbl=10, szleg=10, 
     xlabel="time [s]",unit="[m/s@+2@+]",
